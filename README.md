@@ -1,8 +1,23 @@
-# React + Vite
+# Nike_clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clone of the Nike website Landing-Page showcasing modern design and responsive layout.
 
-Currently, two official plugins are available:
+## Features
+- Fully responsive design
+- Interactive elements
+- Smooth animations
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+- HTML, CSS, JavaScript
+- React with Vite
+- Tailwind CSS
+
+## Live Demo
+Check out the live website here: [Brainwave Clone](https://nike-clone-theta-ten.vercel.app)
+
+## Fun Fact
+This is the first ever website i developed with React and it took me 3 months as i had to learn JavaScripts and it's components and tailwind-CSS.
+But i really Enjoyed trying to clone this simple yet very complex landing-page
+
+## Screenshot
+![Brainwave Clone Screenshot]![]
