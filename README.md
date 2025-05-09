@@ -20,5 +20,5 @@ This is the first ever website i developed with React and it took me 3 months as
 But i really Enjoyed trying to clone this simple yet very complex landing-page
 
 ## Screenshot
-![Brainwave Clone Screenshot]![![Screenshot_9-5-2025_10140_nike-clone-theta-ten vercel app](https://github.com/user-attachments/assets/ad5a2b04-1ae4-4cfe-8bf6-ec9f00561673)
+![Nike Clone Screenshot]![![Screenshot_9-5-2025_10140_nike-clone-theta-ten vercel app](https://github.com/user-attachments/assets/ad5a2b04-1ae4-4cfe-8bf6-ec9f00561673)
 ]
